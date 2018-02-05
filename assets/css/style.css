@@ -1,3 +1,21 @@
 .hero-text {
     font-size: 30px;
 }
+
+h1 {
+    font-size: 40px;
+    background: #fff;
+}
+
+body {
+    background-image: url('../img/background.jpeg');
+    font-family: 'Roboto Slab', Helvetica, sans-serif;
+}
+
+.gem-row {
+    
+}
+
+.main-row {
+    background: #fff;
+
